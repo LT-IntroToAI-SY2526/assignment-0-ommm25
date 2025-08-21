@@ -1,6 +1,6 @@
 # Assignment 0: GitHub Setup for Introduction to AI
 
-This assignment gets you set up with the tools we'll use all year for submitting projects and collaborating. By the end, you'll have your own GitHub account and know the basic workflow for our class.
+This assignment gets you set up with the tools we'll use all year for submitting projects and collaborating. By the end, you'll have your own GitHub account and know the basic workflow for our class. Omar Arellano            
 
 ### What You Need to Submit:
 1. **Complete the writeup.md section** - Complete that portion and make sure that you are committing and pushing your changes.
