@@ -18,7 +18,7 @@
 | **Communication & Professionalism** | | | |
 | Writing Quality | 1 |  | |
 | Following Directions | 1 |  | |
-| **TOTAL** | **10** | | |
+| **TOTAL** | **10** | 0 | I don't see anything pushed to github.  I can help you through it. |
 
 ---
 
